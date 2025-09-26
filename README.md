@@ -1,2 +1,1 @@
-Ding Dong!
-Doing it for fun
+print ("HELLO WORLD")
